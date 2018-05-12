@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28166#Installation-and-Operation-Instructions-For-Custom-Mark-III-CP-Series-Oil-Fired-Unit
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2009-02-25'
 gutenberg_type: Text
